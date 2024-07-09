@@ -1,4 +1,4 @@
-# AI_Tools
+# Remove BG using Python
 This Colab notebook demonstrates how to remove the background from images using Python. It leverages popular libraries such as OpenCV and other image-processing tools to achieve this task. 
 
 ## Setup Instructions
